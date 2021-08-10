@@ -15,10 +15,15 @@ Just insert the floppy in your 2MB Atari STe, or favorite emulator ! Or copy the
 
 All technical details are mentionned at the end of the demo. All the source files are available in the repo.
 
+And a tutorial to explain the details of the SW Scroller is also available in the repo. 
+
 ## Music
 I have initially composed the music using modern tools such as Ableton Live and virtual synths, and I have then converted it to the MOD Protracker format. Both versions are provided here:
 - The classical M.K. MOD format as played in the demo: https://github.com/Uko-TAL/TheStarWarsDemo/blob/main/Music/Oldskool.mod
 - The modern & initial version: https://github.com/Uko-TAL/TheStarWarsDemo/blob/main/Music/Oldskool_ModernVersion.mp3
+
+## Updates
+- 2021/08/10: Add a tutorial to explain the details of the scroller  
 
 # Enjoy !
 
