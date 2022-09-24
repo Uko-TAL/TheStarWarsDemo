@@ -23,7 +23,8 @@ I have initially composed the music using modern tools such as Ableton Live and 
 - The modern & initial version: https://github.com/Uko-TAL/TheStarWarsDemo/blob/main/Music/Oldskool_ModernVersion.mp3
 
 ## Updates
-- 2021/08/10: Add a tutorial to explain the details of the scroller  
+- 2021/08/10: Add a tutorial to explain the details of the scroller
+- 2022/09/24: Add the python tool that allows to simulate the scroller and to generate code  
 
 # Enjoy !
 
